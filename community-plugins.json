@@ -19040,13 +19040,6 @@
     "repo": "dreamscached/obsidian-simple-steam-auth"
   },
   {
-    "id": "smart-mp",
-    "name": "Smart MP",
-    "author": "hwdemtv",
-    "description": "An advanced workspace for writing and publishing articles to WeChat MP with powerful AI assistants and premium UI.",
-    "repo": "hwdemtv/smart-mp"
-  },
-  {
     "id": "inline-local-graph",
     "name": "Inline Local Graph",
     "author": "TKOxff",
@@ -19087,5 +19080,12 @@
     "author": "Shawn Duggan",
     "description": "Your AI writing partner that edits exactly where you want - select text and transform, or chat at cursor position.",
     "repo": "shawnduggan/nova"
+  },
+  {
+    "id": "smart-mp",
+    "name": "Smart MP",
+    "author": "hwdemtv",
+    "description": "An advanced workspace for writing and publishing articles to WeChat MP with powerful AI assistants and premium UI.",
+    "repo": "hwdemtv/smart-mp"
   }
 ]
